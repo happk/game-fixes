@@ -1,0 +1,5 @@
+# 修復工具執行時自動產生的備份（含 manifest.json）
+backup/
+
+# fix.ps1 自動記住的遊戲本體路徑（含本機路徑，不進版控）
+fix.config.txt
